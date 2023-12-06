@@ -24,5 +24,5 @@ Download or clone the content of repository. Then follow the instruction given b
 The web application is now ready to use in http://localhost:4200/
 
 Admin Details:
-Username: admin@medicare.com
-Password: admin12345
+Username: admin@medaicare.com
+Password: admin123
